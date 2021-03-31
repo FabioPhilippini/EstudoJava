@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entitie.Empregado&apos; to &apos;Funcionario&apos;&#x0D;&#x0A;- Original project: &apos;POOExercicio3&apos;&#x0D;&#x0A;- Original element: &apos;entitie.Empregado&apos;&#x0D;&#x0A;- Renamed element: &apos;entitie.Funcionario&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Empregado&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entitie{Empregado.java[Empregado" matchStrategy="1" name="Funcionario" qualified="false" references="true" similarDeclarations="false" stamp="1615484896999" textual="false" version="1.0"/>
+</session>
